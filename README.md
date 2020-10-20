@@ -21,7 +21,7 @@ Current goal: **Plat**
 Current progress: **Gold**
 
 
-##Codechef
+## Codechef
 
 Link to CodeChef profile: [switchpiggy](https://www.codechef.com/users/switchpiggy)
 
