@@ -1,3 +1,3 @@
-#Competitive Programming Grind Page
+# Competitive Programming Grind Page
 
-##Codeforces
+## Codeforces
