@@ -11,7 +11,7 @@ Link to CodeForces profile: [switchpiggy](https://codeforces.com/profile/switchp
 
 Current goal: **2100 (Master)**
 
-Current progress: **1434 (Specialist :( )**
+Current progress: **1500 (Specialist :( )**
 
 
 ## USACO
