@@ -7,7 +7,7 @@ All of my competitive programming solutions are at [my competitive programming r
 
 ## Codeforces
 
-Link to CodeForces profile: [switchpiggy](https://codeforces.com/profile/switchpiggy)
+Link to CodeForces profile: [PIG](https://codeforces.com/profile/PIG)
 
 Current goal: **2100 (Master)**
 
