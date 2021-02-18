@@ -11,7 +11,7 @@ Link to CodeForces profile: [PIG](https://codeforces.com/profile/PIG)
 
 Current goal: **2100 (Master)**
 
-Current progress: **1692 (Expert)**
+Current progress: **1677 (Expert)**
 
 
 ## USACO
