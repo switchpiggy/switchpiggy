@@ -27,4 +27,4 @@ Link to CodeChef profile: [switchpiggy](https://www.codechef.com/users/switchpig
 
 Current goal: **1900**
 
-Current progress: **1607**
+Current progress: **1672**
