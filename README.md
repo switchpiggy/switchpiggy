@@ -1,6 +1,6 @@
 # Competitive Programming Grind Page
 
-Hello there. I am a high school student from the United States working to get to LGM on CodeForces and get into the USA IOI team.
+Hello there. I am a high school student from the United States who is a full time pile of garbage.
 
 All of my competitive programming solutions are at [my competitive programming repo](https://github.com/switchpiggy/Competitive_Programming) if you want to take a look at them.
 
