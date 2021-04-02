@@ -11,20 +11,11 @@ Link to CodeForces profile: [PIG](https://codeforces.com/profile/PIG)
 
 Current goal: **2100 (Master)**
 
-Current progress: **1677 (Expert)**
+Current progress: **-1 (Trash)
 
 
 ## USACO
 
 Current goal: **Plat**
 
-Current progress: **Gold**
-
-
-## Codechef
-
-Link to CodeChef profile: [switchpiggy](https://www.codechef.com/users/switchpiggy)
-
-Current goal: **1900**
-
-Current progress: **1672**
+Current progress: **Gold (Trash)**
